@@ -13,6 +13,10 @@ Additionally, Patreon can serve as a platform for building a more personal conne
 Finally, the data and insights gained from Patreon can be invaluable for Sourceduty’s strategic planning. Understanding which types of content and rewards are most popular can help in refining offerings and marketing strategies. By analyzing patron engagement and feedback, Sourceduty can identify trends and preferences that can guide future development efforts. This data-driven approach ensures that Sourceduty remains responsive to its audience’s evolving needs and continues to provide value that resonates with its supporters.
 
 #
+
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+
+#
 ### Related Links
 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
