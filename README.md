@@ -17,6 +17,10 @@ Finally, the data and insights gained from Patreon can be invaluable for Sourced
 Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 
 #
+
+![Money Wand](https://github.com/user-attachments/assets/387ecbe0-1ec1-4551-96c8-f97a03d39af4)
+
+#
 ### Related Links
 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
