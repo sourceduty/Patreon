@@ -22,8 +22,6 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 [Sourceduty Business](https://github.com/sourceduty/Sourceduty_Business)
 <br>
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
-<br>
-[Sourceduty Services](https://github.com/sourceduty/Sourceduty_Services)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
